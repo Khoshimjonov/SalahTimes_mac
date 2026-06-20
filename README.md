@@ -3,7 +3,8 @@
 A lightweight, native **menu-bar** prayer-times app for macOS. It lives in the
 status bar (no Dock icon), counts down to the next prayer, and sends
 notifications — with the same astronomical accuracy as the original
-Java/Swing **SalahTimes** desktop app it was ported from.
+Java/Swing **[SalahTimes](https://github.com/Khoshimjonov/SalahTimes)** desktop
+app it was ported from.
 
 - **Platform:** macOS 14 (Sonoma) or later — Universal (Apple Silicon + Intel)
 - **Built with:** SwiftUI + AppKit, with a standalone SwiftPM calculation core
@@ -128,8 +129,8 @@ parity test can exercise every code path.
 
 ## Calculation parity
 
-This app's whole reason to exist is to reproduce the original SalahTimes math
-**exactly**. The Swift calculator is verified to produce **second-identical**
+This app's whole reason to exist is to reproduce the math from the original
+[SalahTimes](https://github.com/Khoshimjonov/SalahTimes) Java app **exactly**. The Swift calculator is verified to produce **second-identical**
 output to the Java reference across **8064 checks** (896 fixtures × 9 times) —
 currently **0-second drift** — covering every combination of coordinates,
 elevation, timezone, method, Asr school, high-latitude rule, Imsak offset, and
