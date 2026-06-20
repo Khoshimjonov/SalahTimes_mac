@@ -1,0 +1,83 @@
+/* Prayer names */
+"prayer.imsak" = "Имсак";
+"prayer.fajr" = "Фаджр";
+"prayer.sunrise" = "Восход";
+"prayer.dhuhr" = "Зухр";
+"prayer.asr" = "Аср";
+"prayer.maghrib" = "Магриб";
+"prayer.isha" = "Иша";
+"prayer.midnight" = "Полночь";
+"prayer.lastThird" = "Последняя треть ночи";
+
+"prayer.short.fajr" = "Фаджр";
+"prayer.short.sunrise" = "Восход";
+"prayer.short.dhuhr" = "Зухр";
+"prayer.short.asr" = "Аср";
+"prayer.short.maghrib" = "Магриб";
+"prayer.short.isha" = "Иша";
+
+"menu.settings" = "Настройки…";
+"menu.quit" = "Выйти";
+"menu.show" = "Показать время намаза";
+"dropdown.now" = "Сейчас";
+"dropdown.next" = "Следующий";
+"dropdown.next.in" = "через %@";
+"dropdown.upcoming" = "Предстоящие события";
+"dropdown.no.upcoming" = "Нет предстоящих событий";
+
+"settings.title" = "Настройки Salah Times";
+"settings.tab.general" = "Основные";
+"settings.tab.location" = "Местоположение";
+"settings.tab.calculation" = "Расчёт";
+"settings.tab.notifications" = "Уведомления";
+"settings.tab.menubar" = "Меню-бар";
+"settings.tab.about" = "О программе";
+
+"settings.language" = "Язык";
+"settings.language.en" = "English";
+"settings.language.uz" = "O'zbek";
+"settings.language.ru" = "Русский";
+"settings.autostart" = "Запускать при входе в систему";
+"settings.address" = "Адрес";
+"settings.address.lookup" = "Найти";
+"settings.latitude" = "Широта";
+"settings.longitude" = "Долгота";
+"settings.elevation" = "Высота (м)";
+"settings.timezone" = "Часовой пояс";
+"settings.method" = "Метод расчёта";
+"settings.school" = "Школа аср";
+"settings.school.shafii" = "Шафии";
+"settings.school.hanafi" = "Ханафи";
+"settings.highlat" = "Правило высоких широт";
+"settings.highlat.none" = "Нет";
+"settings.highlat.nightMiddle" = "Середина ночи";
+"settings.highlat.oneSeventh" = "Седьмая часть ночи";
+"settings.highlat.angleBased" = "По углу";
+"settings.imsak" = "Имсак (минут до Фаджра)";
+"settings.adjustments" = "Ручные корректировки";
+"settings.adj.imsak" = "Имсак ±";
+"settings.adj.fajr" = "Фаджр ±";
+"settings.adj.sunrise" = "Восход ±";
+"settings.adj.dhuhr" = "Зухр ±";
+"settings.adj.asr" = "Аср ±";
+"settings.adj.maghrib" = "Магриб ±";
+"settings.adj.isha" = "Иша ±";
+"settings.notify.before" = "Уведомлять до намаза";
+"settings.notify.before.minutes" = "За сколько минут";
+"settings.notify.ontime" = "Уведомлять во время намаза";
+"settings.menubar.showName" = "Показывать название намаза";
+"settings.menubar.showRemaining" = "Показывать оставшееся время";
+"settings.menubar.showIcon" = "Показывать значок";
+"settings.menubar.shortNames" = "Короткие названия намазов";
+"settings.menubar.compactSeconds" = "Секунды в последней минуте";
+"settings.about.title" = "Salah Times";
+"settings.about.version" = "Версия %@";
+"settings.about.copyright" = "© 2026 Khoshimjonov";
+
+"notify.before.title" = "Напоминание о намазе";
+"notify.before.body" = "До намаза %2$@ осталось %1$d мин";
+"notify.ontime.title" = "%1$@";
+"notify.ontime.body" = "Время намаза %1$@";
+
+"loading" = "Загрузка…";
+"error.location" = "Не удалось найти адрес";

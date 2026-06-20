@@ -1,0 +1,89 @@
+/* Prayer names */
+"prayer.imsak" = "Imsak";
+"prayer.fajr" = "Fajr";
+"prayer.sunrise" = "Sunrise";
+"prayer.dhuhr" = "Dhuhr";
+"prayer.asr" = "Asr";
+"prayer.maghrib" = "Maghrib";
+"prayer.isha" = "Isha";
+"prayer.midnight" = "Midnight";
+"prayer.lastThird" = "Last Third";
+
+/* Short names (for compact menu-bar display) */
+"prayer.short.fajr" = "Fajr";
+"prayer.short.sunrise" = "Sun";
+"prayer.short.dhuhr" = "Dhuhr";
+"prayer.short.asr" = "Asr";
+"prayer.short.maghrib" = "Maghrib";
+"prayer.short.isha" = "Isha";
+
+/* Menu / dropdown */
+"menu.settings" = "Settings…";
+"menu.quit" = "Quit Salah Times";
+"menu.show" = "Show Times";
+"dropdown.now" = "Now";
+"dropdown.next" = "Next";
+"dropdown.next.in" = "in %@";
+"dropdown.upcoming" = "Upcoming Events";
+"dropdown.no.upcoming" = "No upcoming events";
+
+/* Settings tabs */
+"settings.title" = "Salah Times Settings";
+"settings.tab.general" = "General";
+"settings.tab.location" = "Location";
+"settings.tab.calculation" = "Calculation";
+"settings.tab.notifications" = "Notifications";
+"settings.tab.menubar" = "Menu Bar";
+"settings.tab.about" = "About";
+
+/* Settings rows */
+"settings.language" = "Language";
+"settings.language.en" = "English";
+"settings.language.uz" = "O'zbek";
+"settings.language.ru" = "Русский";
+"settings.autostart" = "Open at Login";
+"settings.address" = "Address";
+"settings.address.lookup" = "Look up";
+"settings.latitude" = "Latitude";
+"settings.longitude" = "Longitude";
+"settings.elevation" = "Elevation (m)";
+"settings.timezone" = "Time Zone";
+"settings.method" = "Calculation Method";
+"settings.school" = "Asr School";
+"settings.school.shafii" = "Shafi'i";
+"settings.school.hanafi" = "Hanafi";
+"settings.highlat" = "High-Latitude Rule";
+"settings.highlat.none" = "None";
+"settings.highlat.nightMiddle" = "Middle of the night";
+"settings.highlat.oneSeventh" = "One-seventh of the night";
+"settings.highlat.angleBased" = "Angle-based";
+"settings.imsak" = "Imsak (minutes before Fajr)";
+"settings.adjustments" = "Manual Adjustments";
+"settings.adj.imsak" = "Imsak ±";
+"settings.adj.fajr" = "Fajr ±";
+"settings.adj.sunrise" = "Sunrise ±";
+"settings.adj.dhuhr" = "Dhuhr ±";
+"settings.adj.asr" = "Asr ±";
+"settings.adj.maghrib" = "Maghrib ±";
+"settings.adj.isha" = "Isha ±";
+"settings.notify.before" = "Notify before prayer";
+"settings.notify.before.minutes" = "Minutes before";
+"settings.notify.ontime" = "Notify at prayer time";
+"settings.menubar.showName" = "Show prayer name";
+"settings.menubar.showRemaining" = "Show remaining time";
+"settings.menubar.showIcon" = "Show icon";
+"settings.menubar.shortNames" = "Use short prayer names";
+"settings.menubar.compactSeconds" = "Show seconds in last minute";
+"settings.about.title" = "Salah Times";
+"settings.about.version" = "Version %@";
+"settings.about.copyright" = "© 2026 Khoshimjonov";
+
+/* Notifications */
+"notify.before.title" = "Prayer Reminder";
+"notify.before.body" = "%2$@ in %1$d minutes";
+"notify.ontime.title" = "%1$@";
+"notify.ontime.body" = "It's time for the %1$@ prayer";
+
+/* Misc */
+"loading" = "Loading…";
+"error.location" = "Could not look up that address";

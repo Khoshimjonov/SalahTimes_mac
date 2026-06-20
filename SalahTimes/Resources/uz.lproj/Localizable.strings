@@ -1,0 +1,83 @@
+/* Prayer names — match the Java app exactly */
+"prayer.imsak" = "Imsok";
+"prayer.fajr" = "Bomdod";
+"prayer.sunrise" = "Quyosh";
+"prayer.dhuhr" = "Peshin";
+"prayer.asr" = "Asr";
+"prayer.maghrib" = "Shom";
+"prayer.isha" = "Hufton";
+"prayer.midnight" = "Yarim tun";
+"prayer.lastThird" = "Tunning oxirgi uchdan biri";
+
+"prayer.short.fajr" = "Bomdod";
+"prayer.short.sunrise" = "Quyosh";
+"prayer.short.dhuhr" = "Peshin";
+"prayer.short.asr" = "Asr";
+"prayer.short.maghrib" = "Shom";
+"prayer.short.isha" = "Hufton";
+
+"menu.settings" = "Sozlamalar…";
+"menu.quit" = "Chiqish";
+"menu.show" = "Vaqtlarni ko'rsatish";
+"dropdown.now" = "Hozir";
+"dropdown.next" = "Keyingi";
+"dropdown.next.in" = "%@ dan keyin";
+"dropdown.upcoming" = "Yaqinlashayotgan voqealar";
+"dropdown.no.upcoming" = "Yaqin orada voqealar yo'q";
+
+"settings.title" = "Salah Times sozlamalari";
+"settings.tab.general" = "Umumiy";
+"settings.tab.location" = "Manzil";
+"settings.tab.calculation" = "Hisoblash";
+"settings.tab.notifications" = "Bildirishnomalar";
+"settings.tab.menubar" = "Menyu paneli";
+"settings.tab.about" = "Ilova haqida";
+
+"settings.language" = "Til";
+"settings.language.en" = "English";
+"settings.language.uz" = "O'zbek";
+"settings.language.ru" = "Русский";
+"settings.autostart" = "Tizim ishga tushganda ochilsin";
+"settings.address" = "Manzil";
+"settings.address.lookup" = "Qidirish";
+"settings.latitude" = "Kenglik";
+"settings.longitude" = "Uzunlik";
+"settings.elevation" = "Balandlik (m)";
+"settings.timezone" = "Vaqt mintaqasi";
+"settings.method" = "Hisoblash usuli";
+"settings.school" = "Asr maktabi";
+"settings.school.shafii" = "Shofi'iy";
+"settings.school.hanafi" = "Hanafiy";
+"settings.highlat" = "Yuqori kenglik qoidasi";
+"settings.highlat.none" = "Yo'q";
+"settings.highlat.nightMiddle" = "Tunning yarmi";
+"settings.highlat.oneSeventh" = "Tunning yettidan biri";
+"settings.highlat.angleBased" = "Burchakka asoslangan";
+"settings.imsak" = "Imsok (Bomdoddan oldingi daqiqalar)";
+"settings.adjustments" = "Qo'lda tuzatishlar";
+"settings.adj.imsak" = "Imsok ±";
+"settings.adj.fajr" = "Bomdod ±";
+"settings.adj.sunrise" = "Quyosh ±";
+"settings.adj.dhuhr" = "Peshin ±";
+"settings.adj.asr" = "Asr ±";
+"settings.adj.maghrib" = "Shom ±";
+"settings.adj.isha" = "Hufton ±";
+"settings.notify.before" = "Namozdan oldin bildirish";
+"settings.notify.before.minutes" = "Necha daqiqa oldin";
+"settings.notify.ontime" = "Namoz vaqtida bildirish";
+"settings.menubar.showName" = "Namoz nomini ko'rsatish";
+"settings.menubar.showRemaining" = "Qolgan vaqtni ko'rsatish";
+"settings.menubar.showIcon" = "Belgini ko'rsatish";
+"settings.menubar.shortNames" = "Qisqa nomlardan foydalanish";
+"settings.menubar.compactSeconds" = "Oxirgi daqiqada soniyalarni ko'rsatish";
+"settings.about.title" = "Salah Times";
+"settings.about.version" = "Versiya %@";
+"settings.about.copyright" = "© 2026 Khoshimjonov";
+
+"notify.before.title" = "Namoz eslatmasi";
+"notify.before.body" = "%2$@ namoziga %1$d daqiqa qoldi";
+"notify.ontime.title" = "%1$@";
+"notify.ontime.body" = "%1$@ namoz vaqti bo'ldi";
+
+"loading" = "Yuklanmoqda…";
+"error.location" = "Manzilni topib bo'lmadi";

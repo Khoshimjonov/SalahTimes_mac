@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Xcode — user-specific state
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# XcodeGen owns the project; SalahTimes.xcodeproj is generated from project.yml
+# (run `xcodegen generate` after cloning). Keep it out of version control.
+SalahTimes.xcodeproj/
+
+# Build / distribution output
+build/
+dist/
+
+# Compiled Java bytecode from the fixture generator (output of `javac`)
+*.class
+
+# Claude Code local settings
+.claude/settings.local.json
